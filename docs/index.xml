@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Nicole&#39;s Blog :)</title>
+<link>https://nicolehua34.github.io/blog/</link>
+<atom:link href="https://nicolehua34.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>My very first blogging website</description>
+<generator>quarto-1.8.26</generator>
+<lastBuildDate>Tue, 03 Feb 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Post With Code</title>
+  <dc:creator>Harlow Malloc</dc:creator>
+  <link>https://nicolehua34.github.io/blog/posts/post-with-code/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is a post with executable code.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>code</category>
+  <category>analysis</category>
+  <guid>https://nicolehua34.github.io/blog/posts/post-with-code/</guid>
+  <pubDate>Tue, 03 Feb 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://nicolehua34.github.io/blog/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>My First Blog Post</title>
+  <dc:creator>Nicole Hua</dc:creator>
+  <link>https://nicolehua34.github.io/blog/posts/first-post/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I’m starting this blog to document my learning throughout Psych 390! I’m learning new things that I didn’t know prior to this course.</p>
+
+
+
+ ]]></description>
+  <category>thoughts</category>
+  <category>meta</category>
+  <guid>https://nicolehua34.github.io/blog/posts/first-post/</guid>
+  <pubDate>Tue, 03 Feb 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Welcome To My Blog</title>
+  <dc:creator>Tristan O&#39;Malley</dc:creator>
+  <link>https://nicolehua34.github.io/blog/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is the first post in a Quarto blog. Welcome!</p>
+<p><img src="https://nicolehua34.github.io/blog/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://nicolehua34.github.io/blog/posts/welcome/</guid>
+  <pubDate>Sat, 31 Jan 2026 05:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

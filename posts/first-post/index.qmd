@@ -1,0 +1,8 @@
+---
+title: "My First Blog Post"
+author: "Nicole Hua"
+date: "2026-02-03"
+categories: [thoughts, meta]
+---
+
+I'm starting this blog to document my learning throughout Psych 390! I'm learning new things that I didn't know prior to this course. 
