@@ -2,7 +2,7 @@
 title: "I'm Learning How to Code"
 author: "Nicole Hua"
 date: "2026-02-10"
-categories: [thoughts]
+categories: [thoughts, research]
 ---
 
 I'm learning how to code with Quarto, R, and Python on VSCode. I really like the Python matplotlib plot I made; take a look! 
