@@ -1,5 +1,5 @@
 ---
-title: "Learning How to Code"
+title: "I'm Learning How to Code"
 author: "Nicole Hua"
 date: "2026-02-10"
 categories: [thoughts]
