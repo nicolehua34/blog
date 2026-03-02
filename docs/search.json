@@ -7,11 +7,18 @@
     "text": "This is my very first blogging website, made to demonstrate how to use Quarto and GitHub."
   },
   {
-    "objectID": "posts/trying-to-post/index.html",
-    "href": "posts/trying-to-post/index.html",
-    "title": "Trying to Learn How to Post",
+    "objectID": "posts/My-SQL-Homework/index.html",
+    "href": "posts/My-SQL-Homework/index.html",
+    "title": "SQL Is Not Easy…",
     "section": "",
-    "text": "Posting is hard. I want to see if I can do it right on my own…"
+    "text": "While I prepare for my final assignment, I am expanding my coding capabilties and learning how to handle data. I found this assignment difficult because there was a lot of data and I found it difficult to “append” it to my table…? (I think that’s what I did).\nMy assignment is very long because of how many participants there are… I hope the HTML works for you.\nPress here to see my assignment."
+  },
+  {
+    "objectID": "posts/I-Learned-How-To-Code-with-Python/index.html",
+    "href": "posts/I-Learned-How-To-Code-with-Python/index.html",
+    "title": "I’m Learning How to Code",
+    "section": "",
+    "text": "I’m learning how to code with Quarto, R, and Python on VSCode. I really like the Python matplotlib plot I made; take a look!\n3D Voxel/Volumetric Plot"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -35,17 +42,17 @@
     "text": "I’m starting this blog to document my learning throughout Psych 390! I’m learning new things that I didn’t know prior to this course."
   },
   {
+    "objectID": "posts/trying-to-post/index.html",
+    "href": "posts/trying-to-post/index.html",
+    "title": "Trying to Learn How to Post",
+    "section": "",
+    "text": "Posting is hard. I want to see if I can do it right on my own…"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Nicole’s Blog",
     "section": "",
-    "text": "I’m Learning How to Code\n\n\n\nthoughts\n\nresearch\n\n\n\n\n\n\n\n\n\nFeb 10, 2026\n\n\nNicole Hua\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 3, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Blog Post\n\n\n\nthoughts\n\nmeta\n\n\n\n\n\n\n\n\n\nFeb 3, 2026\n\n\nNicole Hua\n\n\n\n\n\n\n\n\n\n\n\n\nTrying to Learn How to Post\n\n\n\nthoughts\n\nresearch\n\n\n\n\n\n\n\n\n\nFeb 3, 2026\n\n\nNicole Hua\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 31, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/I-Learned-How-To-Code-with-Python/index.html",
-    "href": "posts/I-Learned-How-To-Code-with-Python/index.html",
-    "title": "I’m Learning How to Code",
-    "section": "",
-    "text": "I’m learning how to code with Quarto, R, and Python on VSCode. I really like the Python matplotlib plot I made; take a look!\n3D Voxel/Volumetric Plot"
+    "text": "SQL Is Not Easy…\n\n\n\ncode\n\n\n\n\n\n\n\n\n\nMar 2, 2026\n\n\nNicole Hua\n\n\n\n\n\n\n\n\n\n\n\n\nI’m Learning How to Code\n\n\n\nthoughts\n\nresearch\n\n\n\n\n\n\n\n\n\nFeb 10, 2026\n\n\nNicole Hua\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 3, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Blog Post\n\n\n\nthoughts\n\nmeta\n\n\n\n\n\n\n\n\n\nFeb 3, 2026\n\n\nNicole Hua\n\n\n\n\n\n\n\n\n\n\n\n\nTrying to Learn How to Post\n\n\n\nthoughts\n\nresearch\n\n\n\n\n\n\n\n\n\nFeb 3, 2026\n\n\nNicole Hua\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 31, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
   }
 ]

@@ -1,0 +1,13 @@
+---
+title: "SQL Is Not Easy..."
+author: "Nicole Hua"
+date: "2026-03-02"
+categories: [code]
+---
+
+
+While I prepare for my final assignment, I am expanding my coding capabilties and learning how to handle data. I found this assignment difficult because there was a lot of data and I found it difficult to "append" it to my table...? (I think that's what I did).
+
+My assignment is very long because of how many participants there are... I hope the HTML works for you. 
+
+Press [here](handlingdatahw.html) to see my assignment. 
